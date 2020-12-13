@@ -1,0 +1,2 @@
+# dimco
+Docker image copier
